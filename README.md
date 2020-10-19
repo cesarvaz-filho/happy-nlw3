@@ -13,8 +13,6 @@
 
 - [x] Cadastro de orfanatos
 - [x] Localização via mapa
-- [x] Favoritos
-- [x] Entrar em contato por whatsapp
 
 # Banner
 
